@@ -1,0 +1,14 @@
+.images{
+    border: 2px;
+    border-radius: 25px;
+    align-content: center;
+}
+
+.back{
+    justify-content: flex-start;
+    background-color: yellow;
+    box-shadow: black 2px 2px ;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
